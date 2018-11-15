@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/ShowToolTips/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ShowToolTips/MainWindow.xaml))**
+* [TypeConverters.cs](./CS/ShowToolTips/TypeConverters.cs) (VB: [TypeConverters.vb](./VB/ShowToolTips/TypeConverters.vb))
+<!-- default file list end -->
 # How to show tooltips for map shapes 
 
 
