@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowToolTips", "ShowToolTips\ShowToolTips.csproj", "{E433F7F6-9CC5-4016-B62B-6E4A77784EED}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowToolTips", "ShowToolTips\ShowToolTips.Net5.csproj", "{E433F7F6-9CC5-4016-B62B-6E4A77784EED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
